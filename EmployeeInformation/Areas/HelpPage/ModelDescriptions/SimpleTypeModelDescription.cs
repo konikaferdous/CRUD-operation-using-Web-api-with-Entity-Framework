@@ -1,0 +1,6 @@
+namespace EmployeeInformation.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
